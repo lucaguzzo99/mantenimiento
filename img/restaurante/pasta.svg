@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Espaguetis con albóndigas">
+	<defs>
+		<radialGradient id="bg-pasta" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#f7e3c6"/><stop offset="1" stop-color="#d98d5f"/></radialGradient>
+		<filter id="sombra-pasta" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#000" flood-opacity=".28"/></filter>
+	</defs>
+	<rect width="800" height="600" fill="url(#bg-pasta)"/>
+	
+	<g filter="url(#sombra-pasta)"><circle cx="400" cy="305" r="215" fill="#fbfaf7"/></g>
+	<circle cx="400" cy="305" r="193" fill="#f0ede6"/>
+	<circle cx="400" cy="305" r="193" fill="none" stroke="#e1ddd2" stroke-width="3"/>
+		<ellipse cx="400.22835346357897" cy="305.9651013035327" rx="40" ry="28" fill="none" stroke="#f5d77e" stroke-width="9" transform="rotate(-18.947563590481877 400 300)"/><ellipse cx="403.3516385233961" cy="296.37553766928613" rx="53" ry="37" fill="none" stroke="#efc65a" stroke-width="9" transform="rotate(3.5307080764323473 400 300)"/><ellipse cx="395.4715595128946" cy="305.50076822564006" rx="66" ry="46" fill="none" stroke="#f5d77e" stroke-width="9" transform="rotate(5.562398033216596 400 300)"/><ellipse cx="399.94841124350205" cy="301.1960248472169" rx="79" ry="55" fill="none" stroke="#efc65a" stroke-width="9" transform="rotate(11.797971334308386 400 300)"/><ellipse cx="396.11839955393225" cy="302.9364780904725" rx="92" ry="64" fill="none" stroke="#f5d77e" stroke-width="9" transform="rotate(17.04713731072843 400 300)"/><ellipse cx="405.3572199093178" cy="305.5365569712594" rx="105" ry="73" fill="none" stroke="#efc65a" stroke-width="9" transform="rotate(-10.914681535214186 400 300)"/><ellipse cx="401.407518371474" cy="303.01759629137814" rx="118" ry="82" fill="none" stroke="#f5d77e" stroke-width="9" transform="rotate(-15.644946908578277 400 300)"/><ellipse cx="399.64272749843076" cy="295.871608232148" rx="131" ry="91" fill="none" stroke="#efc65a" stroke-width="9" transform="rotate(6.3905008137226105 400 300)"/><ellipse cx="397.2739573516883" cy="303.0448901485652" rx="144" ry="100" fill="none" stroke="#f5d77e" stroke-width="9" transform="rotate(-7.4988913629204035 400 300)"/>
+		<ellipse cx="400" cy="285" rx="68" ry="48" fill="#c0392b"/><ellipse cx="392" cy="275" rx="48" ry="30" fill="#d9503f" opacity=".8"/>
+		<circle cx="372" cy="275" r="24" fill="#6b3a24"/><circle cx="428" cy="288" r="24" fill="#6b3a24"/><circle cx="395" cy="318" r="22" fill="#6b3a24"/>
+		<circle cx="364" cy="268" r="6" fill="#8d5436"/><circle cx="421" cy="281" r="6" fill="#8d5436"/>
+		<g transform="translate(398 262) rotate(15) scale(0.75)"><path d="M0 0 Q18 -30 0 -62 Q-18 -30 0 0Z" fill="#3f8f3f"/><path d="M0 -4 V-54" stroke="#2c6a2c" stroke-width="2.5" fill="none"/></g><g transform="translate(420 255) rotate(60) scale(0.6)"><path d="M0 0 Q18 -30 0 -62 Q-18 -30 0 0Z" fill="#3f8f3f"/><path d="M0 -4 V-54" stroke="#2c6a2c" stroke-width="2.5" fill="none"/></g>
+		<g fill="#fff6d6"><rect x="455" y="238" width="14" height="5" rx="2"/><rect x="340" y="330" width="14" height="5" rx="2"/><rect x="470" y="330" width="14" height="5" rx="2"/><rect x="330" y="255" width="12" height="5" rx="2"/></g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Bife a la parrilla con papas">
+	<defs>
+		<radialGradient id="bg-parrilla" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#f1d3b8"/><stop offset="1" stop-color="#a8643c"/></radialGradient>
+		<filter id="sombra-parrilla" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#000" flood-opacity=".28"/></filter>
+	</defs>
+	<rect width="800" height="600" fill="url(#bg-parrilla)"/>
+	
+	<g filter="url(#sombra-parrilla)"><circle cx="400" cy="305" r="215" fill="#fbfaf7"/></g>
+	<circle cx="400" cy="305" r="193" fill="#f0ede6"/>
+	<circle cx="400" cy="305" r="193" fill="none" stroke="#e1ddd2" stroke-width="3"/>
+		<path d="M290 250 Q300 185 395 200 Q485 195 505 265 Q530 335 470 372 Q405 405 330 380 Q272 345 290 250Z" fill="#5a2c17"/>
+		<path d="M300 255 Q310 200 395 212 Q475 208 492 268 Q514 330 464 360 Q405 388 338 366 Q288 335 300 255Z" fill="#8b4a2b"/>
+		<line x1="315" y1="236" x2="345" y2="356" stroke="#41210f" stroke-width="10" stroke-linecap="round" opacity=".75"/><line x1="343" y1="239" x2="373" y2="359" stroke="#41210f" stroke-width="10" stroke-linecap="round" opacity=".75"/><line x1="371" y1="242" x2="401" y2="362" stroke="#41210f" stroke-width="10" stroke-linecap="round" opacity=".75"/><line x1="399" y1="245" x2="429" y2="365" stroke="#41210f" stroke-width="10" stroke-linecap="round" opacity=".75"/><line x1="427" y1="248" x2="457" y2="368" stroke="#41210f" stroke-width="10" stroke-linecap="round" opacity=".75"/><line x1="455" y1="251" x2="485" y2="371" stroke="#41210f" stroke-width="10" stroke-linecap="round" opacity=".75"/>
+		<path d="M300 255 Q310 200 395 212 Q475 208 492 268" fill="none" stroke="#c9936b" stroke-width="6" opacity=".6"/>
+		<rect x="432" y="381" width="76" height="28" rx="12" fill="#e9c27a" stroke="#c99a48" stroke-width="3" transform="rotate(20 470 395)"/><rect x="467" y="351" width="76" height="28" rx="12" fill="#e9c27a" stroke="#c99a48" stroke-width="3" transform="rotate(55 505 365)"/><rect x="402" y="411" width="76" height="28" rx="12" fill="#e9c27a" stroke="#c99a48" stroke-width="3" transform="rotate(80 440 425)"/><rect x="482" y="396" width="76" height="28" rx="12" fill="#e9c27a" stroke="#c99a48" stroke-width="3" transform="rotate(35 520 410)"/>
+		<g fill="#4c9a34"><circle cx="350" cy="280" r="8"/><circle cx="420" cy="260" r="7"/><circle cx="445" cy="320" r="8"/><circle cx="375" cy="335" r="7"/><circle cx="400" cy="295" r="6"/></g>
+		<g stroke="#2f6e2a" stroke-width="3" stroke-linecap="round"><path d="M300 400 L360 430"/><path d="M315 392 l8 -12 M330 402 l8 -12 M345 412 l8 -12 M310 410 l-8 12 M326 420 l-8 12 M342 430 l-8 12"/></g>
+</svg>
